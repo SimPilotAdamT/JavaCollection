@@ -13,7 +13,7 @@ import java.util.Scanner; //For the Scanner class
  *
  * @author Adam Tazul
  * @version 0.2.0.1
- * @since 12/09/2020 at 1933 UTC
+ * @since 07/09/2020
  */
 
 public class CompSci //The main class
