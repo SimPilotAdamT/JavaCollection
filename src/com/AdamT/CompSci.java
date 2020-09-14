@@ -10,7 +10,7 @@ import java.util.Scanner; //For the Scanner class
  * 0.1.2 @ 10/09/2020: Reorganizes methods; actually uses the java.lang.Math class.<br>
  * 0.2 @ 11/09/2020: Removed the java.lang.math class as it caused a bug in NumberComparer; created a menu for use when there are more modules of actions within this program.<br>
  * 0.2.0.1 @ 12/09/2020: Made sca1 a private and constant class variable; made the non-main methods (isNumeric and NumberComparer) private methods.<br><br>
- * 0.2.0.2 @ 14/09/2020:
+ * 0.2.0.2 @ 14/09/2020: Made programming a slight bit more time efficient.
  *
  * @author Adam Tazul
  * @version 0.2.0.1
