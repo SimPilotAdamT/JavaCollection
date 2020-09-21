@@ -33,13 +33,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/OCR_A_Level_CS_jar/OCR A-Level CS.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.CompSci">
+  <component name="RunManager" selected="JAR Application.OCR A-Level CS.jar">
     <configuration name="CompSci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.AdamT.CompSci" />
       <module name="OCR A-Level CS" />
@@ -68,8 +68,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompSci" />
         <item itemvalue="JAR Application.OCR A-Level CS.jar" />
+        <item itemvalue="Application.CompSci" />
       </list>
     </recent_temporary>
   </component>
@@ -89,38 +89,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="337" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599499803251" />
-    <state x="529" y="128" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599572035621">
+    <state x="529" y="128" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600528849295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="529" y="128" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599572035621" />
+    <state x="529" y="128" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600528849295" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1600527123857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600527123857" />
     <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599499602898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599499602898" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600526425522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600526425522" />
     <state x="676" y="338" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1599575411696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="338" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599575411696" />
-    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1599849760326">
+    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1600528874164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599849760326" />
-    <state width="1340" height="250" key="GridCell.Tab.0.bottom" timestamp="1599939145412">
+    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600528874164" />
+    <state width="930" height="262" key="GridCell.Tab.0.bottom" timestamp="1600697738859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599939145412" />
-    <state width="1340" height="250" key="GridCell.Tab.0.center" timestamp="1599939145412">
+    <state width="930" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600697738859" />
+    <state width="930" height="262" key="GridCell.Tab.0.center" timestamp="1600697738859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599939145412" />
-    <state width="1340" height="250" key="GridCell.Tab.0.left" timestamp="1599939145412">
+    <state width="930" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600697738859" />
+    <state width="930" height="262" key="GridCell.Tab.0.left" timestamp="1600697738859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599939145412" />
-    <state width="1340" height="250" key="GridCell.Tab.0.right" timestamp="1599939145412">
+    <state width="930" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600697738859" />
+    <state width="930" height="262" key="GridCell.Tab.0.right" timestamp="1600697738859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599939145412" />
+    <state width="930" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600697738859" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1599850839719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,10 +157,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="496" y="256" width="928" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1599581743325" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599571990174">
+    <state x="551" y="140" key="new project wizard" timestamp="1600526714263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599571990174" />
+    <state x="551" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600526714263" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1600179418806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600179418806" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600113922487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600113922487" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,5 +179,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OCR_A_Level_CS$CompSci.ic" NAME="CompSci Coverage Results" MODIFIED="1600179537810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.AdamT.*</FILTER>
+    </SUITE>
   </component>
 </project>
