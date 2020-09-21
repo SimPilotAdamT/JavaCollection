@@ -17,5 +17,6 @@ Me practicing my Java Coding. Made to be edited with JetBrains IntelliJ IDEA (ht
 * 0.1.1 @ 09/09/2020: Added validation for user inputs; allows user to input 2 numbers which are equal.<br>
 * 0.1.2 @ 10/09/2020: Reorganizes methods; actually uses the java.lang.Math class.<br>
 * 0.2 @ 11/09/2020: Removed the java.lang.math class as it caused a bug in NumberComparer; created a menu for use when there are more modules of actions within this program.<br>
-* 0.2.0.1 @ 12/09/2020: Made sca1 a private and constant class variable; made the non-main methods (isNumeric and NumberComparer) private methods.<br><br>
-* 0.2.0.2 @ 14/09/2020: Made programming a slight bit more time efficient.
+* 0.2.0.1 @ 12/09/2020: Made sca1 a private and constant class variable; made the non-main methods (isNumeric and NumberComparer) private methods.<br>
+* 0.2.0.2 @ 14/09/2020: Made programming a slight bit more time efficient.<br>
+* 0.3a1 @ 21/09/2020: Added some GUI Programming; Added the Oracle SpringUtilities class to the file (for the form window).<br>
