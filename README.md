@@ -20,4 +20,5 @@ Me practicing my Java Coding. Made to be edited with JetBrains IntelliJ IDEA (ht
 * 0.2.0.1 @ 12/09/2020: Made sca1 a private and constant class variable; made the non-main methods (isNumeric and NumberComparer) private methods.
 * 0.2.0.2 @ 14/09/2020: Made programming a slight bit more time efficient.
 * 0.3a1 @ 21/09/2020: Added some GUI Programming; Added the Oracle SpringUtilities class to the file (for the form window).
-* 0.3 @ 28/09/2020: Abandoned NumberComparerGUI, added simple Rock Paper Scissors game.
+* 0.3 @ 28/09/2020: Abandoned NumberComparerGUI; added simple Rock Paper Scissors game.
+* 0.4 @ 13/10/2020: Added a currency converter (rates accurate as of 1400Z 12/10/2020).
