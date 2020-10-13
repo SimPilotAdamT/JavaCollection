@@ -1,5 +1,5 @@
 # OCR A-Level Computer Science Programming Practice
-Me practicing my Java Coding. Made to be edited with JetBrains IntelliJ IDEA (https://www.jetbrains.com/idea/).  Uses the developer version of Java JDK 16 (https://jdk.java.net/16/). Changelogs are included in teh .java file in the src/com/AdamT folder. If you are here looking for software to download or to contribute to some projects to contribute to,  _**do not download these files**_. They are _**purely**_ my practice only.
+Me practicing my Java Coding. Made to be edited with JetBrains IntelliJ IDEA (https://www.jetbrains.com/idea/).  Uses the developer version of Java JDK 16 (https://jdk.java.net/16/). Changelogs are included in the .java file in the src/com/AdamT folder.
 ## Usage
 * ### Source Code
 	1. Ensure you have Java JDK 16 (https://jdk.java.net/16/) downloaded and ready for use by your IDE (or manual `cmd.exe`/Linux Terminal compiler). This program was compiled and written with JetBrains IntelliJ IDEA (https://www.jetbrains.com/idea/), so I would recommend using this (although it is not an absolute must).
