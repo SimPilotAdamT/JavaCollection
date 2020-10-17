@@ -16,10 +16,11 @@ import java.awt.*;
  * 0.2.0.2 @ 14/09/2020: Made programming a slight bit more time efficient.<br>
  * 0.3a1 @ 21/09/2020: Added some GUI Programming; Added the Oracle SpringUtilities class to the file (for the form window).<br>
  * 0.3 @ 28/09/2020: Abandoned NumberComparerGUI; added simple Rock Paper Scissors game.<br>
- * 0.4 @ 13/10/2020: Added a currency converter (rates accurate as of 1400Z 12/10/2020).<br><br>
+ * 0.4 @ 13/10/2020: Added a currency converter (rates accurate as of 1400Z 12/10/2020).<br>
+ * 0.4.0.1 @ 17/10/2020: Edited grammar.<br><br>
  *
  * @author Adam Tazul
- * @version 0.2.0.1
+ * @version 0.4.0.1
  * @since 07/09/2020
  */
 public class CompSci
@@ -206,7 +207,7 @@ public class CompSci
         boolean exit = false;
         while (!exit)
         {
-            System.out.println("Which currency would you like to convert to (from GBP?)");
+            System.out.println("Which currency would you like to convert to (from GBP)?\nNOTE: rates accurate as of 1400Z 12/10/2020.");
             System.out.println("1) USD \n2) AUD \n3) EUR \n4) TRY \n5) CHF \n6) BTC \n7) ETH \n8) руб \n9) SAR \n10) QAR\n11) MYR \n12) KGS \n13) Exit Program");
             System.out.print("Enter selection:");
             String str1 = sca1.nextLine();
