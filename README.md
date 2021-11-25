@@ -1,4 +1,4 @@
-# OCR A-Level Computer Science Programming Practice
+# Collection of algorithms written in Java
 Me practicing my Java Coding. Made to be edited with JetBrains IntelliJ IDEA (https://www.jetbrains.com/idea/).  Uses the developer version of Java JDK 16 (https://jdk.java.net/16/). Changelogs are included in the .java file in the src/com/AdamT folder.
 ## Usage
 * ### Source Code
